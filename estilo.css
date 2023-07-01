@@ -1,0 +1,10 @@
+body{
+    margin: 10px 60px ;
+}
+
+.contenedor-comida{
+    padding-left: 0px;
+    width: 1100px;
+    height: 300px;
+    overflow: hidden;
+}
