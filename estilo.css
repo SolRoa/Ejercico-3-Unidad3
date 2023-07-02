@@ -1,7 +1,18 @@
 body{
     margin: 10px 60px ;
 }
-
+.titulop{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+.subtitulo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+.titulom{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
 .contenedor-comida{
     padding-left: 0px;
     width: 1100px;
