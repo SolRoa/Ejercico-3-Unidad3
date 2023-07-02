@@ -13,16 +13,17 @@ body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 30px;
 }
+.Lorem{
+    font-style: italic;
+    max-width: 1000px;
+}
 .contenedor-comida{
     padding-left: 0px;
-    width: 1100px;
+    width: 1000px;
     height: 300px;
     overflow: hidden;
 }
 .listas{
     font-family: 'Franklin Gothic', 'Arial Narrow', Arial, sans-serif;
     line-height: 1.5rem;
-}
-.Lorem{
-    font-style: italic;
 }
